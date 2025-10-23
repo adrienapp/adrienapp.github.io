@@ -1,5 +1,6 @@
 # 🔒 Règles de Privacy de MatchUp (selon le code)
-
+1. Introduction
+MatchUp s'engage à protéger votre vie privée. Cette politique de confidentialité explique comment nous collectons, utilisons et protégeons vos informations personnelles.
 2. Informations collectées
 2.1 Informations de compte :
 Nom d'utilisateur et adresse e-mail
